@@ -1,0 +1,34 @@
+body{background-color: lightslategray;}
+
+#result{
+    height: 50px;
+    width: 285px;
+    font-size: 35px;
+    background-color: white);
+}
+
+h1{color: rgb(16, 17, 19);
+background-color: lightcoral;
+}
+
+
+button{
+    font-size: 25px;
+    height:50px;
+    width: 70px;
+    background: linear-gradient(skyblue,pink);
+}
+
+.main{
+    position: absolute;
+    height: 80px;
+    width: 80px;
+    background-color: black;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.main input{
+    border: 5px;
+    border-radius: 25%;
+}
